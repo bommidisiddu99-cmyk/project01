@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+
+    background-size: cover;
+    height: auto;
+    margin-top: 100px;
+    width: auto;
+    padding: 18px;
+
+}
+
+.li {
+    list-style-type: square;
+
+    padding: 25px;
+    font-family: fantasy;
+    font-style: Oblique;
+
+
+}
+
+.head {
+    margin-left: 40px;
+    font-family: cursive;
+    text-align: center;
+
+}
+
+.nav {
+    margin-right: 10px;
+}
+
+.nav-bar {
+    padding-top: 28px;
+    padding-bottom: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-bottom: 2px;
+    background-color: #4A3728;
+    color: #FFD580;
+    font-family: cursive;
+
+}
+
+.brand-logo {
+    height: 35px;
+    width: 40px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+}
+
+.amazon {
+    height: 50px;
+    width: 50px;
+    border-radius: 70px;
+    margin-top: 10px;
+}
+
+.section1bg {
+    margin: 40px;
+}
+
+.section1-main-head {
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.section1-head {
+    font-size: 20px;
+}
+
+.amazon-container {
+    margin: 20px;
+    background-color: #f5f7fa;
+    border-radius: 15px;
+}
+
+.medi {
+    height: 50px;
+    width: 50px;
+    border-radius: 70px;
+    margin-top: 10px;
+}
+
+.section1bg {
+    margin: 40px;
+}
+
+.section2-main-head {
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.section1-head {
+    font-size: 20px;
+}
+
+.section2-container {
+    margin: 20px;
+    background-color: #f5f7fa;
+    border-radius: 15px;
+}
+
+.food {
+    height: 50px;
+    width: 50px;
+    border-radius: 70px;
+    margin-top: 10px;
+}
+
+.section3bg {
+    margin: 40px;
+}
+
+.section3-main-head {
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.section3-head {
+    font-size: 20px;
+}
+
+.section3-container {
+    margin: 20px;
+    background-color: #f5f7fa;
+    border-radius: 15px;
+}
+
+.fashion {
+    height: 50px;
+    width: 50px;
+    border-radius: 70px;
+    margin-top: 10px;
+}
+
+.section4bg {
+    margin: 40px;
+}
+
+.section4-main-head {
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.section4-head {
+    font-size: 20px;
+}
+
+.section4-container {
+    margin: 20px;
+    background-color: #f5f7fa;
+    border-radius: 15px;
+}
+
+.fertilizer {
+    height: 50px;
+    width: 50px;
+    border-radius: 70px;
+    margin-top: 10px;
+}
+
+.section5bg {
+    margin: 40px;
+}
+
+.section5-main-head {
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.section5-head {
+    font-size: 20px;
+}
+
+.section5-container {
+    margin: 20px;
+    background-color: #f5f7fa;
+    border-radius: 15px;
+}
+
+.card {
+    padding: 20px;
+    font-family: "Comic Sans MS";
+    font-style: Oblique;
+    font-size: 20px;
+}
+
+.bg-image {
+    background-color: lightblue;
+    height: 1000px;
+}
+
+.head-img {
+    margin-left: 50px;
+    width: auto;
+
+}
